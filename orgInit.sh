@@ -19,5 +19,3 @@ sfdx force:source:push
 
 
 sfdx force:org:open
-
-© 2019 GitHub, Inc.
